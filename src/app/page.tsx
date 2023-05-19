@@ -10,6 +10,7 @@ export default function Home() {
   return (
     <>
       <h1>홈페이지 v3</h1>
+      <p>커밋 1</p>
       <Counter />
       <Image src="https://images.unsplash.com/photo-1441986300917-64674bd600d8" alt="shop" width={400} height={400}/>
     </>
